@@ -24,8 +24,19 @@
   color: white;
 }
 
+.App-body {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
 .App-link {
   color: #61dafb;
+}
+.App-h2 {
+  color: white;
+}
+.App-text {
+  color: white;
 }
 
 @keyframes App-logo-spin {
